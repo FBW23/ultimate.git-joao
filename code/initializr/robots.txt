@@ -1,1 +1,6 @@
 hihihihihihihihgit
+# www.robotstxt.org/ blah blah blah 
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
